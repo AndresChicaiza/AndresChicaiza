@@ -20,7 +20,7 @@ Soy un Desarrollador Full-Stack y estudiante apasionado por los datos y la compu
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresChicaiza&show_icons=true&theme=radium&locale=es" alt="Estadísticas de Andrés" width="48%" />
+  <img src="https://anuraghazra.github.io/github-readme-stats/api?username=AndresChicaiza&show_icons=true&theme=radium&locale=es" alt="Estadísticas de Andrés" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresChicaiza&theme=radium" alt="Racha de GitHub" width="48%" />
 </p>
 
