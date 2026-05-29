@@ -25,7 +25,7 @@ Soy un Desarrollador Full-Stack y estudiante apasionado por los datos y la compu
 
 ### 📫 ¿Cómo contactarme?
 
-- **LinkedIn:** https://www.linkedin.com/in/andres-felipe-chicaiza-ortiz-9450b8395/
+- **LinkedIn:** www.linkedin.com/in/andres-felipe-chicaiza-ortiz/
 - **Email:** andres.chicaiza@correounivalle.edu.co
 
 
