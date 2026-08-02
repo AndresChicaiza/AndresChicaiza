@@ -52,7 +52,6 @@ Estudiante de último semestre de **Tecnología en Desarrollo de Software** (Uni
 
 ### 📊 Estadísticas
 
-![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresChicaiza&show_icons=true&theme=radical&hide_border=true)
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=AndresChicaiza&theme=radical&hide_border=true)
 
 ---
